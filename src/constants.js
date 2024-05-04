@@ -1,1 +1,1 @@
-export const DB_NAME = "prodnjkfda-backend"
+export const DB_NAME = "prod-backend"
